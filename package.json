@@ -1,7 +1,7 @@
 {
-  "name": "auras",
+  "name": "aurelia-boilerplate",
   "version": "0.0.1",
-  "description": "mocking up aurelia",
+  "description": "Mocking up aurelia",
   "main": "index.js",
   "private": true,
   "scripts": {
