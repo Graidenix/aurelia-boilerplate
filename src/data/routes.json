@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "route": "",
+      "moduleId": "pages/home",
+      "name": "Home Page",
+      "title": "Home Page",
+      "nav": true
+    }
+  ]
+}
